@@ -1,0 +1,1 @@
+if((fp=fopen("employee.txt","w"))!=NULL)
